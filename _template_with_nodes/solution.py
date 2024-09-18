@@ -26,16 +26,16 @@
 # solution = Solution()
 #
 # head_1 = solution.create_linked_list(elements=)
-# *_1 = solution.
-# result_1 = solution.linked_list_to_list(head=)
+# updated_linked_list_1 = solution.
+# result_1 = solution.linked_list_to_list(head=updated_linked_list_1)
 # print(f'Example 1 output (should be *): {result_1}')
 #
 # head_2 = solution.create_linked_list(elements=)
-# *_2 = solution.
-# result_2 = solution.linked_list_to_list(head=)
+# updated_linked_list_2 = solution.
+# result_2 = solution.linked_list_to_list(head=updated_linked_list_2)
 # print(f'\nExample 2 output (should be *): {result_2}')
 #
 # head_3 = solution.create_linked_list(elements=)
-# *_3 = solution.
-# result_3 = solution.linked_list_to_list(head=)
+# updated_linked_list_3 = solution.
+# result_3 = solution.linked_list_to_list(head=updated_linked_list_3)
 # print(f'\nExample 3 output (should be *): {result_3}')
