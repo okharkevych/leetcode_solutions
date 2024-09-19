@@ -1,27 +1,27 @@
 
-# @staticmethod
-# def create_linked_list(elements: list[int]) -> ListNode | None:
-#     if not elements:
-#         return None
-#
-#     head = ListNode(elements[0])
-#     current = head
-#
-#     for element in elements[1:]:
-#         current.next = ListNode(element)
-#         current = current.next
-#
-#     return head
-#
-# @staticmethod
-# def linked_list_to_list(head: ListNode | None) -> list[int]:
-#     elements: list[int] = []
-#
-#     while head:
-#         elements.append(head.val)
-#         head = head.next
-#
-#     return elements
+    # @staticmethod
+    # def create_linked_list(elements: list[int]) -> ListNode | None:
+    #     if not elements:
+    #         return None
+    #
+    #     head = ListNode(elements[0])
+    #     current = head
+    #
+    #     for element in elements[1:]:
+    #         current.next = ListNode(element)
+    #         current = current.next
+    #
+    #     return head
+    #
+    # @staticmethod
+    # def linked_list_to_list(head: ListNode | None) -> list[int]:
+    #     elements: list[int] = []
+    #
+    #     while head:
+    #         elements.append(head.val)
+    #         head = head.next
+    #
+    #     return elements
 
 # solution = Solution()
 #
